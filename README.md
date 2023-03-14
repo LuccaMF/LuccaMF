@@ -6,8 +6,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaMF&show_icons=true&theme=dark)
 
-## Technologies that i'm learning and using in the moment.
+## Technologies that i'm learning and using in the moment:
 
-<div style="display: inline_block;"></br>
-<a 
+<div style="display: inline_block;"><br>
+  <img align="center" alt src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width:70px;height:80px" />
+  
 </div>
