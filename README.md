@@ -25,13 +25,14 @@
 
 ## More about me
 
-- Play Competitive games in computer
-- To do weight training
-- I like so much cars and costumizations
+- Play Competitive games in computer 👾
+- To do weight training 🏋️
+- I like so much cars and costumizations 🏎️
 <br>
 
-## Social medias.
+## Contact
 
-<div>
-<a href="https://www.linkedin.com/in/luccamaltafreitas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/luccamaltafreitas/" target = "_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"></a>
+  <a href="mailto:luccamaltafreitas@gmail.com" target = "_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank"></a>
 </div>
