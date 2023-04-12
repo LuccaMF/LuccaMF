@@ -5,7 +5,7 @@
 - College System analysis and development.
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaMF&show_icons=true&theme=tokyonight)
+<img height="195 cm" src="https://github-readme-streak-stats.herokuapp.com/?user=LuccaMF&stroke=f8d847&background=141321&ring=FFD700&fire=FFD700&currStreakNum=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FFD700&dates=a9fef7&hide_border=true&date_format=j/n/Y"/>
 <br>
 
 ## Technologies that i'm using in the moment: 🛠️
