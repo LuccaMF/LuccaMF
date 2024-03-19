@@ -1,6 +1,6 @@
 # Hello, i'm Lucca. 👋
 
-- I'm a begginer developer, searching to learn more and pratice my abilities.
+- I'm a Developer, searching to learn more and pratice my abilities.
 - I want to be a Front-End developer, but i'm ready for new challenges.
 - College System analysis and development.
 <br>
