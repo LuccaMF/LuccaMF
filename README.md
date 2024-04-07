@@ -8,7 +8,7 @@
 <img height="195 cm" src="https://github-readme-streak-stats.herokuapp.com/?user=LuccaMF&stroke=f8d847&background=141321&ring=FFD700&fire=FFD700&currStreakNum=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FFD700&dates=a9fef7&hide_border=true&date_format=j/n/Y"/>
 <br>
 
-### Main Stack: 🛠️
+### Main Stacks 🛠️
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -20,11 +20,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### Studying in this moment: 📚
+### Studying in this moment 📚
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 
-### Databases:
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
