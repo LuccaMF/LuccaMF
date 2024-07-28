@@ -34,7 +34,7 @@
 
 - Play Competitive games in computer 👾
 - I like Bodybuilding 🏋️
-- I like so much cars and costumizations 🏎️
+- I like so much Formula 1 and automobilism 🏎️
 
 ### Contacts
 
