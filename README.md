@@ -4,8 +4,10 @@
 - Completed college System analysis and development.
 <br>
 
-<img height="195 cm" src="https://github-readme-streak-stats.herokuapp.com/?user=LuccaMF&stroke=f8d847&background=141321&ring=FFD700&fire=FFD700&currStreakNum=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FFD700&dates=a9fef7&hide_border=true&date_format=j/n/Y"/>
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuccaMF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccaMF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ### Main Stacks 🛠️
 
