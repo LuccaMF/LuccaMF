@@ -1,6 +1,6 @@
 # Hello, i'm Lucca. 👋
 
-- I'm a Developer, searching to learn more, pratice my abilities and ready for new challenges.
+- I'm a Web Developer, searching to learn more, pratice my abilities and ready for new challenges.
 - Completed college System analysis and development.
 <br>
 
